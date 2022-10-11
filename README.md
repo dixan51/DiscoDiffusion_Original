@@ -1,1 +1,1 @@
-# DiscoDiffusion
+# Disco
